@@ -16,3 +16,5 @@
     - Version control systems are a category of software tools that help a software team manage changes to source code over time.
 5. Hverjir eru helstu kostir við að nota GIT? 
     -
+6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? 
+    -
