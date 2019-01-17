@@ -15,8 +15,8 @@
 4. Hvað er útgáfustýring (Version Control)? 
     - Version control systems are a category of software tools that help a software team manage changes to source code over time.
 5. Hverjir eru helstu kostir við að nota GIT? 
-    - GIT er hratt forrit.
+    - GIT er hratt forrit.  GIT ir ātra un vienkārši izmantojuma programma.
 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni? 
-    - oft, en ekki svo oft.
+    - oft, en ekki svo oft. Tad kad vajag, sasodītā skola.
 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT? 
-    - Stað sem þú ert að vinna í 
+    - Stað sem þú ert að vinna í./ staging is a step before the commit process in GIT.
