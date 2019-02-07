@@ -1,3 +1,7 @@
+---
+title: git svör
+---
+
 # Hér er 1. grein
 
 1. Hvað gera eftirfarandi Linux skipanir?

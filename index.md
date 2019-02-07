@@ -2,4 +2,4 @@
 title: forsíða
 ---
 
-# {{ "Hello World!" | downcase }}
+# {{ "Hello World!" | upcase }}
